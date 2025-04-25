@@ -1,3 +1,0 @@
-@app.route('/')
-def serve_index():
-    return redirect('/login.html')
